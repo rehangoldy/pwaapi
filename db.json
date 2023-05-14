@@ -1,0 +1,54 @@
+{
+"prodcuts": [
+  {
+    "id": 1,
+    "jenis_produk": "Sambuca - Opal Nera",
+    "name_product": "Molson Coors Brewing  Company"
+  },
+  {
+    "id": 2,
+    "jenis_produk": "Sauce - Chili",
+    "name_product": "Gilead Sciences, Inc."
+  },
+  {
+    "id": 3,
+    "jenis_produk": "Mushroom - Shitake, Dry",
+    "name_product": "Fluidigm Corporation"
+  },
+  {
+    "id": 4,
+    "jenis_produk": "Crab - Blue, Frozen",
+    "name_product": "Lockheed Martin Corporation"
+  },
+  {
+    "id": 5,
+    "jenis_produk": "Kellogs All Bran Bars",
+    "name_product": "Israel Chemicals Shs"
+  },
+  {
+    "id": 6,
+    "jenis_produk": "Bread - French Stick",
+    "name_product": "CenterPoint Energy, Inc."
+  },
+  {
+    "id": 7,
+    "jenis_produk": "Pork - Loin, Bone - In",
+    "name_product": "Rexnord Corporation"
+  },
+  {
+    "id": 8,
+    "jenis_produk": "Icecream Cone - Areo Chocolate",
+    "name_product": "Fiduciary/Claymore MLP Opportunity Fund"
+  },
+  {
+    "id": 9,
+    "jenis_produk": "Pie Shell - 9",
+    "name_product": "Genius Brands International, Inc."
+  },
+  {
+    "id": 10,
+    "jenis_produk": "Oil - Peanut",
+    "name_product": "Colony Bankcorp, Inc."
+  }
+]
+}
